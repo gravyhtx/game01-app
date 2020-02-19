@@ -1,0 +1,8 @@
+@font-face {font-family:'Poppins';font-style:normal;font-weight:100;font-display:swap;src:local('Poppins Thin'),local('Poppins-Thin'),url(poppins/Poppins-Thin.otf)format('otf');}
+@font-face {font-family:'Poppins';font-style:normal;font-weight:200;font-display:swap;src:local('Poppins ExtraLight'),local('Poppins-ExtraLight'),url(poppins/Poppins-ExtraLight.otf)format('otf');}
+@font-face {font-family:'Poppins';font-style:normal;font-weight:300;font-display:swap;src:local('Poppins Light'),local('Poppins-Light'),url(poppins/Poppins-Light.otf)format('otf');}
+@font-face {font-family:'Poppins';font-style:normal;font-weight:400;font-display:swap;src:local('Poppins Regular'),local('Poppins-Regular'),url(poppins/Poppins-Regular.otf)format('otf');}
+@font-face {font-family:'Poppins';font-style:normal;font-weight:500;font-display:swap;src:local('Poppins Medium'),local('Poppins-Medium'),url(poppins/Poppins-Medium.otf)format('otf');}
+@font-face {font-family:'Poppins';font-style:normal;font-weight:600;font-display:swap;src:local('Poppins SemiBold'),local('Poppins-SemiBold'),url(poppins/Poppins-SemiBold.otf)format('otf');}
+@font-face {font-family:'Poppins';font-style:normal;font-weight:700;font-display:swap;src:local('Poppins Bold'),local('Poppins-Bold'),url(poppins/Poppins-Bold.otf)format('otf');}
+@font-face {font-family:'Poppins';font-style:normal;font-weight:900;font-display:swap;src:local('Poppins Black'),local('Poppins-Black'),url(poppins/Poppins-Black.otf)format('otf');}
